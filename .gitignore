@@ -3,3 +3,7 @@
 *.pdb
 *.ilk
 *.obj
+*.expected
+*.actual
+test_logic
+test_visuals
